@@ -1,2 +1,14 @@
-# todo-app
-React To-Do List app with CRUD, filters, and localStorage
+A fully functional To-Do List app built with React.
+
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as complete
+- Filter tasks (All / Active / Completed)
+- Task stats counter
+- Data persists after refresh (localStorage)
+- Keyboard support (Enter to add)
+
+## Built With
+- React
+- CSS
+- localStorage
