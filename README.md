@@ -12,3 +12,6 @@ A fully functional To-Do List app built with React.
 - React
 - CSS
 - localStorage
+
+## Live Demo
+[View Live App](https://todo-k8fch81kr-mamadou.vercel.app)
